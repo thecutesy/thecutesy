@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thecutesy
 - 👀 I’m interested in learning Phyton.
 - 🌱 I’m currently learning Phyton.
-- 💞️ I’m looking to collaborate on Phyton
+- 💞️ I’m looking to collaborate on Python
 
 <!---
 thecutesy/thecutesy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
