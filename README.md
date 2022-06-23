@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thecutesy
-- 👀 I’m interested in learning Phyton.
+- 👀 I’m interested in learning Python.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python
 
