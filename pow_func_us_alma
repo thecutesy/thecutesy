@@ -1,0 +1,7 @@
+Üs almak için kullanabileceğin bir diğer fonksiyon da mesela x**y nin alternatifi. 
+>>> x=2
+>>> y=3
+>>> x**y
+8
+>>> pow(x,y)
+8
