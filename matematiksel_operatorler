@@ -1,0 +1,19 @@
+Python Matematiksel Operatörler ve İşlemler
+ Ragıp Ünal  11 Kasım 2016  Python  0 Comments 24 likes
+Aşağıda operatör çeşitlerine göre anlamı ve örneğiyle beraber bir tablo yapılmıştır. İnceleyin lütfen.
+
+Operatör	Anlam	Örnek
+**	Üs Alma	 x**y matematikteki xy nalamında kullanılır. ÖR: 2**4 = 16
+*	Çarpma	3*5 = 15
+/	Bölme	6/5 = 1.2
++	Toplama	6+3=9
+–	Çıkarma	7-2=5
+//	Tam sayı bölme	7//5 = 1
+%	Modüler işlem	Bölümden sonraki  kalanı verecektir. 6%5 = 1
+İşlemlerde Öncelik Sırası
+Aşağıda öncelik sırası önce en yüksekten başlayacak şekilde yazılmıştır.
+
+(…) Paranteze alınan işlem önceliklidir.
+** Üs alma işlemi
+*,/,//,% Çarpma, Bölme, Tam sayı bölme ve Modüler işlem
++,- Toplama ve Çıkarma işlemi
